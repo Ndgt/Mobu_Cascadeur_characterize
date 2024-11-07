@@ -74,12 +74,12 @@ def SetBoneMapping() -> dict:
 def prepare_characterize()->bool:
     mapping_rot = {
         "pelvis"        :  FBVector3d(173.485, 0.000793457, -180) ,
-        "thigh_l"       :  FBVector3d(174.975, 6.38468, 9.04656) ,
-        "calf_l"        :  FBVector3d(-170.099, 6.2806, 7.69015) ,
-        "foot_l"        :  FBVector3d(91.6881, 5.13961, 0.334436) ,
-        "thigh_r"       :  FBVector3d(-5.02311, -6.38564, -9.04661) ,
-        "calf_r"        :  FBVector3d(9.89845, -6.28166, -7.69023) ,
-        "foot_r"        :  FBVector3d(-88.3139, -5.14049, -0.334) ,
+        "thigh_l"       :  FBVector3d(176.865, 5.80263, 1.47495) ,
+        "calf_l"        :  FBVector3d(-168.228, 3.87797, -0.273398) ,
+        "foot_l"        :  FBVector3d(93.1041, -2.22811, -1.11169) ,
+        "thigh_r"       :  FBVector3d(-5.86837, -5.61927, -0.976903) ,
+        "calf_r"        :  FBVector3d(9.04068, -2.80452, 0.805921) ,
+        "foot_r"        :  FBVector3d(-88.5293, -0.526914, 0.869641) ,
         "stomach"       :  FBVector3d(179.604, 0.000424839, -180) ,
         "arm_l"         :  FBVector3d(1.17854e-07, -1.62088e-07, -90) ,
         "forearm_l"     :  FBVector3d(-6.77605e-07, 6.20136e-08, -90) ,
